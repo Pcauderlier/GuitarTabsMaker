@@ -1,7 +1,8 @@
-from YTdownloader import download
-from tabsCreator import tabs
-from screenshots import getFrames
-from ClearFiles import clear
+
+from functions.YTdownloader import download
+from functions.tabsCreator import tabs
+from functions.screenshots import getFrames
+from functions.ClearFiles import clear
 import time
 
 
