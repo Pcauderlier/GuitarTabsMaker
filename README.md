@@ -9,8 +9,7 @@ Using guide :
 - in terminal (creates a virtual environment to install all dependencies)
     - python -m venv venv
     - venv\Scripts\activate
-  Intstall dependencies :
-    pip install -r requirements.txt
+    - pip install -r requirements.txt
 
 Finaly, run the main program : 
   python .\GuitarTabsMaker.py 
