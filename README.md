@@ -7,8 +7,8 @@ Using guide :
 - Create an empty directory called "tabs"
 - download from github with git clone
 - in terminal (creates a virtual environment to install all dependencies)
-    python -m venv venv
-    venv\Scripts\activate
+    - python -m venv venv
+    - venv\Scripts\activate
   Intstall dependencies :
     pip install -r requirements.txt
 
