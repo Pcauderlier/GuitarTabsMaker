@@ -3,6 +3,8 @@ Take screenshots of Guitar Tabs in youtube videos
 
 Using guide : 
 
+- Create an empty directory called "ScreeShots"
+- Create an empty directory called "tabs"
 - download from github with git clone
 - in terminal (creates a virtual environment to install all dependencies)
     python -m venv venv
@@ -22,3 +24,5 @@ The program will then temporarly download the youtube video
   - Finaly select a position in the tab that will only change when the tab changes
     
 Wait a few secs and you ll get your brand new guitar tab ! 
+You ll find it in the 'tabs' directory
+Every temporary files will be deleted once the tab is created
