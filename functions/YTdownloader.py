@@ -1,5 +1,4 @@
 from pytube import YouTube
-import time
 
 def download(url):
         yt = YouTube(url)
