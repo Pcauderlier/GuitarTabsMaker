@@ -7,3 +7,4 @@ def download(url):
         video.download('./video','vid.mp4')
         print('Vidéo Telechargée')
 
+# download('https://www.youtube.com/watch?v=ZUs-mkNpm2A&ab_channel=SimpleGuitarTabs')
